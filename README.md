@@ -1,6 +1,7 @@
 ## Hi there 👋
+![bg](https://github.com/user-attachments/assets/20ce70be-730b-4840-abc9-5d6f3390198a)
 
-![preview](https://github.com/user-attachments/assets/2ae8402e-b283-49e2-8db6-e97fdba2160f)
+
 
 <!--
 **L1KASA/L1KASA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
