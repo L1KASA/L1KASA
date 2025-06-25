@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![bg](https://github.com/user-attachments/assets/20ce70be-730b-4840-abc9-5d6f3390198a)
 
 
